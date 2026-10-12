@@ -1,9 +1,9 @@
 # Hi, I'm Janahan Thavendran
 
-**Head of Product — B2B SaaS & AI Platforms**
+**Product Leader — B2B SaaS & AI Platforms**
 I make B2B platforms agent-ready: APIs, MCP, developer experience and payments that AI agents can actually use.
 
-12+ years across software engineering and product, with an MBA and an MRes in Computer Science (AI). I've led platform teams at Delivery Hero and built production AI at Tabsquare AI and for B2B clients.
+12+ years across software engineering and product, with an MRes in Computer Science (AI). I've led platform teams at Delivery Hero and built production AI at Tabsquare AI and for B2B clients.
 
 [janahan.io](https://janahan.io) · [LinkedIn](https://linkedin.com/in/tjanahan) · [Email](mailto:eng.janahan@gmail.com)
 
