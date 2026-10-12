@@ -1,44 +1,60 @@
-# Hi, I'm Janahan Thavendran 🚀
-**Principal Product Leader | Platform Monetization & Applied AI**
+# Hi, I'm Janahan Thavendran
 
-I am a product operator who bridges the gap between deep algorithmic research, complex systems engineering, and macro-commercial growth. With over 12 years of experience spanning Software Engineering, an MBA, and an MRes in Computer Science (AI), I specialize in building the high-leverage product operating systems that power global scale[cite: 1, 2].
+**Head of Product — B2B SaaS & AI Platforms**
+I make B2B platforms agent-ready: APIs, MCP, developer experience and payments that AI agents can actually use.
 
-[🌍 Personal Website (janahan.io)](https://janahan.io) • [💼 LinkedIn Profile](https://linkedin.com/in/tjanahan) • [📬 Email Me](mailto:eng.janahan@gmail.com)
+12+ years across software engineering and product, with an MBA and an MRes in Computer Science (AI). I've led platform teams at Delivery Hero and built production AI at Tabsquare AI and for B2B clients.
 
----
-
-## ⚡ Executive Impact Metrics
-*   **$1B+ GMV Scale:** Architected and expanded API-first platform ecosystems that doubled transaction volume to over $1B+ GMV[cite: 1, 2].
-*   **0-1 to $50M GMV:** Led the rapid Go-to-Market (GTM) and technical execution of a greenfield B2B PayFac product in 6 months[cite: 1, 2].
-*   **Intelligent Automation:** Deployed production-grade LLM RAG pipelines and predictive ML engines that cut operational churn by 15% and lifted AOV by 8%[cite: 1, 2].
+[janahan.io](https://janahan.io) · [LinkedIn](https://linkedin.com/in/tjanahan) · [Email](mailto:eng.janahan@gmail.com)
 
 ---
 
-## 🧰 The Tech-to-Product Stack
+## Impact
 
-### 💳 Platform & Fintech Infrastructure
-*   **Core Capabilities:** PayFac Architecture[cite: 1, 2], Multi-PSP Integrations (Adyen, Airwallex)[cite: 1], Ledger Systems, API-First Design, Developer Experience (DX).
-*   **Compliance & Trust:** Embedded platform adherence for PSD2, PCI-DSS, and GDPR across 10+ global markets.
-
-### 🤖 Applied AI/ML & Engineering Roots
-*   **Research & Models:** MRes focus on predictive resource orchestration using LSTMs, GRUs, and XGBoost[cite: 1].
-*   **GenAI & Production Pipelines:** Practical implementation of Agentic RAG LLM pipelines for automated operations and predictive personalization[cite: 1, 2].
-*   **Mobile Ecosystems:** Architecture and release management optimization for high-scale B2B2C mobile apps and loyalty engines[cite: 2].
-
----
-
-## 🔬 Current Research & Open Source Focus
-*   **Intelligent Platform Infrastructure:** Building frameworks that transition AI from basic API wrapper applications into deeply integrated, probabilistic backend operating systems.
-*   **Fintech Performance:** Optimizing event logging and high-fidelity data instrumentation pipelines to feed real-time risk, compliance, and fraud-detection models[cite: 1, 2].
+| | |
+| --- | --- |
+| **$1B+ GMV** | Unified an API-first platform ecosystem across 10+ markets at Delivery Hero |
+| **$50M GMV in 6 months** | Took a greenfield B2B PayFac from zero to launch: go-to-market and technical delivery |
+| **2x leads closed** | Shipped a RAG assistant that gives sales teams product context before, during and after calls |
+| **−15% churn · +8% AOV** | Production ML and recommendation engines for ordering and loyalty |
+| **10 direct reports** | PMs, designers and analysts; ran OKRs, hiring and promotions |
 
 ---
 
-## 📈 My Core Philosophy
-> *"I don't just ship features. I design the defensible, transaction-heavy technical architecture that scales businesses, empowers developer ecosystems, and captures enterprise market share[cite: 1, 2]."*
+## What I work on
+
+**AI & agentic systems**
+- Taking agents and RAG pipelines from demo to production: evals, cost and latency budgets, monitoring
+- Agent-ready product surfaces: APIs, MCP servers, permissions and audit trails
+- [The User Pulse](https://theuserpulse.com): an agentic AI product I'm building for local service businesses
+
+**APIs & developer experience**
+- Full lifecycle of internal and open APIs: versioning, SDKs, governance, partner adoption
+- Enterprise integrations across CRM, ERP and M&A
+
+**Payments infrastructure**
+- PayFac, multi-PSP orchestration (Adyen, Stripe, Checkout.com, Airwallex), ledger and 3-way reconciliation
+- PCI-DSS, PSD2 and GDPR across 10+ markets
+
+**Research roots**
+- MRes in predictive resource orchestration: LSTMs, GRUs, XGBoost
 
 ---
 
-### 🤝 Let's Connect
-Are you scaling a high-ambition Fintech platform, an Enterprise B2B SaaS ecosystem, or building production-grade Agentic AI? Let's swap notes. 
+## How I think
 
-*   **Current Availability:** Open to Principal / Head of Product / Acting CPO opportunities across the UK, EU, and APAC[cite: 2].
+> In platforms that move money, trust compounds faster than features. Reliability is the product, and the same is true for AI agents.
+
+A few things I've written:
+- [The RAG trap: why AI can't answer your revenue questions](https://janahan.io/blog/rag-trap-ai-revenue-questions)
+- [Evals are a product job, not just an engineering one](https://janahan.io/blog/evals-product-job-engineering)
+- [Architecture decision log](https://janahan.io/architecture)
+
+---
+
+## Let's talk
+
+Building a B2B SaaS platform that needs to work with AI agents, or putting agentic AI into a product that handles money? I'd like to hear about it.
+
+**Open to:** Product Leader Roles, full-time or contract.
+**Based in:** Dubai  · working with teams in the UK, Europe and North America.
