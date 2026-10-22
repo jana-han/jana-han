@@ -1,60 +1,23 @@
-# Hi, I'm Janahan Thavendran
+# Janahan Thavendran
+**AI & Platform Product Leader** · Agentic AI, ML, APIs & Payments · Dubai · London
 
-**Product Leader — B2B SaaS & AI Platforms**
-I make B2B platforms agent-ready: APIs, MCP, developer experience and payments that AI agents can actually use.
+I've built AI products since 2017, from ML recommendations at 8,000 merchants to agentic RAG systems, on top of payments and API platforms that moved $1B+ GMV. I started as a software engineer, and I still build.
 
-12+ years across software engineering and product, with an MRes in Computer Science (AI). I've led platform teams at Delivery Hero and built production AI at Tabsquare AI and for B2B clients.
+**Selected impact**
+- +8% order value from ML recommendations taken from experiment to production
+- 2x leads closed with a RAG assistant for revenue teams
+- $50M monthly GMV within 6 months from a PayFac launched from $0
+- 3x API adoption and 50+ partners connected through open APIs and middleware
+- Led 6+ PMs, 2 designers and 2 analysts across 10+ markets at Delivery Hero
 
-[janahan.io](https://janahan.io) · [LinkedIn](https://linkedin.com/in/tjanahan) · [Email](mailto:eng.janahan@gmail.com)
+**Hands-on with** Python · SQL · MCP · RAG and evals · Claude · Cursor · n8n
 
----
+**Currently exploring** evaluation for multi-step agents, and what payments infrastructure teaches us about making agents safe
 
-## Impact
+**What's here**
+- `refund-agent-mcp` — an MCP server for payment tools, built for safe, auditable agents
+- `rag-eval-harness` — a small RAG assistant with an evaluation gate in CI
+- `product-playbooks` — the frameworks I use: AI launch checklist, partner scorecard, decision template
 
-| | |
-| --- | --- |
-| **$1B+ GMV** | Unified an API-first platform ecosystem across 10+ markets at Delivery Hero |
-| **$50M GMV in 6 months** | Took a greenfield B2B PayFac from zero to launch: go-to-market and technical delivery |
-| **2x leads closed** | Shipped a RAG assistant that gives sales teams product context before, during and after calls |
-| **−15% churn · +8% AOV** | Production ML and recommendation engines for ordering and loyalty |
-| **10 direct reports** | PMs, designers and analysts; ran OKRs, hiring and promotions |
-
----
-
-## What I work on
-
-**AI & agentic systems**
-- Taking agents and RAG pipelines from demo to production: evals, cost and latency budgets, monitoring
-- Agent-ready product surfaces: APIs, MCP servers, permissions and audit trails
-- [The User Pulse](https://theuserpulse.com): an agentic AI product I'm building for local service businesses
-
-**APIs & developer experience**
-- Full lifecycle of internal and open APIs: versioning, SDKs, governance, partner adoption
-- Enterprise integrations across CRM, ERP and M&A
-
-**Payments infrastructure**
-- PayFac, multi-PSP orchestration (Adyen, Stripe, Checkout.com, Airwallex), ledger and 3-way reconciliation
-- PCI-DSS, PSD2 and GDPR across 10+ markets
-
-**Research roots**
-- MRes in predictive resource orchestration: LSTMs, GRUs, XGBoost
-
----
-
-## How I think
-
-> In platforms that move money, trust compounds faster than features. Reliability is the product, and the same is true for AI agents.
-
-A few things I've written:
-- [The RAG trap: why AI can't answer your revenue questions](https://janahan.io/blog/rag-trap-ai-revenue-questions)
-- [Evals are a product job, not just an engineering one](https://janahan.io/blog/evals-product-job-engineering)
-- [Architecture decision log](https://janahan.io/architecture)
-
----
-
-## Let's talk
-
-Building a B2B SaaS platform that needs to work with AI agents, or putting agentic AI into a product that handles money? I'd like to hear about it.
-
-**Open to:** Product Leader Roles, full-time or contract.
-**Based in:** Dubai  · working with teams in the UK, Europe and North America.
+**Writing:** [janahan.io/blog](https://janahan.io/blog) · **Architecture log:** [janahan.io/architecture](https://janahan.io/architecture)
+**Open to** Head of Product and Lead / Senior Lead PM roles in AI and platforms · [LinkedIn](https://www.linkedin.com/in/tjanahan) · [CV](https://cv.janahan.io)
